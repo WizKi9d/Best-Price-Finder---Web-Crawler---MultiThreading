@@ -8,4 +8,4 @@ Amazon web crawler used to find the best price for specific brand items.
 - [ ] Start to create final app
 - [ ] Add finishing details to original testing app in console
 
-![alt text](app-design v1.0.png)
+![Screenshot](app-design v1.0.png)
