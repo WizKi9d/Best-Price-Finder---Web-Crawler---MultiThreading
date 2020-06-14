@@ -1,4 +1,4 @@
-#Amazon best price finder using Multithreading and web crawling.
+# Amazon best price finder using Multithreading and web crawling.
 
 Amazon web crawler used to find the best price for specific brand items.
 
