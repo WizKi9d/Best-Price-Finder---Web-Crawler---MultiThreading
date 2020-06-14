@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonWebCrawlerTest", "AmazonWebCrawlerTest\AmazonWebCrawlerTest.csproj", "{F3A9BCB6-EC41-4AD5-9DC9-787ED2F39759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3A9BCB6-EC41-4AD5-9DC9-787ED2F39759}.Debug|x86.ActiveCfg = Debug|x86
+		{F3A9BCB6-EC41-4AD5-9DC9-787ED2F39759}.Debug|x86.Build.0 = Debug|x86
+		{F3A9BCB6-EC41-4AD5-9DC9-787ED2F39759}.Release|x86.ActiveCfg = Release|x86
+		{F3A9BCB6-EC41-4AD5-9DC9-787ED2F39759}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
