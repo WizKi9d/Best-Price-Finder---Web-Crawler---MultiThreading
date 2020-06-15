@@ -11,3 +11,6 @@ Amazon web crawler used to find the best price for specific brand items.
 
 ## First App design
 ![Screenshot](https://raw.githubusercontent.com/WizKi9d/Best-Price-Finder---Web-Crawler---MultiThreading/master/app-design%20v1.0.png)
+
+## Final App Design
+![Final Deisng](https://raw.githubusercontent.com/WizKi9d/Best-Price-Finder---Web-Crawler---MultiThreading/master/Final%20Amazon%20Web%20Crawler%20Design.png)
